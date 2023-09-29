@@ -5,6 +5,10 @@ I am always open to industry opportunities and passionate about exciting project
 
 🍩 I’m currently working on [Donat.Pool](https://github.com/fullstack-development/donat-pool-frontend)
 
+#### Archived projects
+[Toxin — website pages for hotel](https://github.com/Daswetter/2nd)
+</br>
+[Range-slider](https://github.com/Daswetter/4th)
 
 
 #### Stack

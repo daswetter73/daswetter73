@@ -3,7 +3,7 @@
 As a front-end developer, I am motivated by the challenge of solving programming problems and improving my skillset.<br/> 
 I am always open to industry opportunities and passionate about exciting projects.
 
-🍩 I’m currently working on [Donat.Pool](https://github.com/daswetter73/donat-pool-frontend)
+🍩 I’m currently working on [Donat.Pool](https://github.com/cardano-enthusiasts/donat-pool-frontend)
 
 #### Archived projects
 [Toxin — website pages for hotel](https://github.com/Daswetter/2nd)
